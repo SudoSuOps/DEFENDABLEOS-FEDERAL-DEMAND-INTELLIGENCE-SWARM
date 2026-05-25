@@ -159,6 +159,13 @@
       "sha256": "52598718596f9ddb0f44bdd2f757bc136ee2d0a8b6dfec5251faa1efeecb8edd",
       "size_bytes": 1840,
       "type": "readme"
+    },
+    {
+      "exists": true,
+      "file": "SMALL_CONTRACT_OPPORTUNITIES.md",
+      "sha256": "fef5fc30ff4842633b6d8b5f8cf477d155b923f5ff8c9bba82078d31ef1ffc3d",
+      "size_bytes": 9069,
+      "type": "derived_analysis"
     }
   ],
   "hash_status": "in_house_sha256_embedded",
@@ -210,8 +217,8 @@
     "active_targets": 4,
     "award_receipts": 35,
     "expired_market_signals": 52,
-    "files_existing": 16,
-    "files_total": 16,
+    "files_existing": 17,
+    "files_total": 17,
     "rejection_log_entries": 1,
     "rfi_sources_sought": 37,
     "total_records_across_all_files_v0_2": 149,
@@ -389,6 +396,19 @@
     "CMMC Level 2 / security clearance status for DefendableOS is unknown",
     "Competitive landscape against Palantir, Booz Allen, and Big 5 is incomplete",
     "No customer discovery interviews have been conducted \u2014 all data from procurement notice analysis only"
+  ],
+  "v0_2_derived_analyses": [
+    {
+      "audit_status": "AUDITED_WITH_CORRECTIONS",
+      "cross_references_records": [
+        "FED-SECCMP-0058",
+        "FED-CYBER-0013",
+        "FED-CYBER-0014"
+      ],
+      "file": "SMALL_CONTRACT_OPPORTUNITIES.md",
+      "note": "Identifies 3 active SB set-aside opportunities + 9 expired SB signals + 1 award \u2264$250K \u00b7 honest about NOT_VERIFIED registration prerequisites",
+      "purpose": "Cross-corpus analysis of contracts \u2264$250K and small-business entry points"
+    }
   ],
   "v0_2_remediation_branch": "remediation/federal-corpus-v0.2-source-receipts",
   "v0_2_remediation_timestamp_utc": "2026-05-25T05:23:54Z"
