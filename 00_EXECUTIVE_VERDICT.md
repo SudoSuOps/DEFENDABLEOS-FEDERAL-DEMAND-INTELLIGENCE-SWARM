@@ -28,12 +28,12 @@
 
 | Evidence Metric | Value | Source Verification |
 |-----------------|-------|-------------------|
-| Total identified awards (ceiling value) | **$12.5 billion+** | USAspending.gov, agency announcements |
+| Total identified awards (ceiling value) | **$10.38B observed** ([v0.2 audit reconciliation](remediation/00_REMEDIATION_PLAN.md) · v0.1 cited $12.5B which included market-budget context, the canonical award-receipts sum is $10.38B and matches README) | USAspending.gov, agency announcements |
 | Federal AI spending (FY2026 budget) | **$7.2 billion** | Brookings Institution / OMB |
 | AI spending growth (FY2022 to FY2026) | **+2,659%** | ($261M to $7.2B) |
 | AI spending growth (FY2024 to FY2026) | **+966%** | Deltek GovWin IQ |
 | Small business share of AI contracts | **35%** ($740M in FY2024) | SBA FY2024 Scorecard |
-| Total opportunities catalogued across 6 pods | **73+ notices** | SAM.gov direct extraction |
+| Total opportunities catalogued across 6 pods | **58 in registry + 35 awards + 4 active + 52 expired** ([v0.2 derivation](remediation/00_REMEDIATION_PLAN.md) · v0.1 cited "73+ notices" as a stale rollup, v0.2 publishes per-file counts) | SAM.gov direct extraction |
 | Active opportunities (open for response) | **4** | SAM.gov status verified |
 | Award notices documenting spend | **8+ major awards** | SAM.gov / USAspending.gov |
 | Sources Sought / RFI pipeline | **30+** | SAM.gov market research notices |

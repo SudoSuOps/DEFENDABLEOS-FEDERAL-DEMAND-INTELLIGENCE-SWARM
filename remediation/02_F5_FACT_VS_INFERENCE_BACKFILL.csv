@@ -1,0 +1,17 @@
+record_id,old_notes,new_notes_length
+FED-AITEVV-0008,Facts verified from SAM.gov.,676
+FED-AITEVV-0009,Facts verified.,661
+FED-AITEVV-0010,Facts verified.,686
+FED-AITEVV-0011,Facts verified.,722
+FED-CYBER-0016,Inactive Jan 2026. Recompete expected.,747
+FED-CYBER-0020,Inactive Aug 2025. 8(a) set-aside.,730
+FED-CYBER-0025,Inactive Sep 2025. Recompete expected.,719
+FED-DATGOV-0031,Inactive Apr 2025.,722
+FED-DATGOV-0033,Inactive Jan 2025.,699
+FED-DATGOV-0037,Inactive Jul 2025.,645
+FED-FRAUD-0043,Inactive Apr 2026.,746
+FED-FRAUD-0046,Inactive since Aug 2023.,731
+FED-SECCMP-0051,Inactive Dec 2025.,726
+FED-SECCMP-0052,Inactive since Oct 2022. Hardware only.,751
+FED-SECCMP-0053,Inactive Jul 2025. Limited description.,702
+FED-SECCMP-0055,Inactive Jan 2024.,658

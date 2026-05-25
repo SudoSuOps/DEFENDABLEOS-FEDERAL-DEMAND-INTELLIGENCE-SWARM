@@ -1,0 +1,5 @@
+award_id,old_tier,new_tier,source_url,reason
+AWR-0003,tier_1,tier_2,https://openai.com/global-affairs/introducing-openai-for-government/,contractor_press_not_gov_url
+AWR-0005,tier_1,tier_2,https://investors.boozallen.com/news-releases/news-release-details/booz-allen-secures-158-billion-contract-intelligence-analysis,contractor_press_not_gov_url
+AWR-0006,tier_1,tier_2,https://www.wired.com/story/palantir-maven-ice-contracts/,contractor_press_not_gov_url
+AWR-0008,tier_1,tier_2,https://www.wired.com/story/department-homeland-security-ice-billion-dollar-agreement-palantir/,contractor_press_not_gov_url

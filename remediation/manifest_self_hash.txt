@@ -1,0 +1,3 @@
+# sha256 of 12_DEFENDABLE_FEDERAL_LEDGER_MANIFEST.json computed AFTER its own write
+# this is the canonical anchor hash · use it for DefendableLedger
+70ad6894652fc25db61ec8c1da323e9ef518e918ff274d819488e17108fe178f  12_DEFENDABLE_FEDERAL_LEDGER_MANIFEST.json
